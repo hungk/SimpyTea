@@ -1,0 +1,23 @@
+Primary Tea Type,subtype II,subtype III,1st_Infusion,2nd_Infusion,3rd_Infusion,4th_Infusion,5th_Infusion,6th_Infusion,7th_Infusion,8th_Infusion,9th_Infusion,10th_Infusion,BrewTemp_Lo,BrewTemp_Hi,Max_No Infusions_Lo,Max_No Infusions_Hi,Scale_Light2Dark,Country of Origin,Mountain,Meters,Antioxidant Level,Caffeine Level,Portion (tsp),Temperature (F)
+Black tea,Assam,,90,90,90,90,90,90,90,90,90,90,190,205,5,10,5,India,,,Low,High,,
+Black tea,Darjeeling,Second flush,90,90,90,90,90,90,90,90,90,90,190,205,5,10,5,India,,,Low,High,,
+Red tea,Premium,,90,90,90,90,90,90,90,90,90,90,190,205,5,10,5,China,,,Low,High,,
+Pu-erh,shou (cooked),15-year,90,90,90,90,90,90,90,90,90,90,190,205,5,10,5,China,,,High,Medium,,
+Pu-erh,sheng (raw),18-year,90,90,90,90,90,90,90,90,90,90,190,205,5,10,5,China,,,High,Medium,,
+Oolong,High mountain,Dark roast,60,60,60,60,75,75,75,75,75,75,190,205,5,10,4,Taiwan,San Lin She ,1600,Medium,Medium,,205
+Oolong,Phoenix,Almond fragance,30,30,30,45,60,60,75,75,75,75,190,205,5,6,4,China,Phoenix ,,Medium,Medium,,205
+Oolong,Phoenix,Pomelo fragance,30,30,30,45,60,60,75,75,75,75,190,205,5,6,4,China,Phoenix ,,Medium,Medium,,205
+Oolong,Phoenix,Pomelo fragance,30,30,30,45,60,60,75,75,75,75,190,205,5,6,4,China,Phoenix ,,Medium,Medium,,205
+Oolong,High mountain,Light roast,60,60,60,60,60,60,75,75,75,75,190,205,5,6,4,Taiwan,San Lin She ,1600,Medium,Medium,,205
+Oolong,Tieguanyin,Light roast,60,60,60,60,75,75,75,75,75,75,190,205,5,6,3,China,Anxi,,Medium,Medium,,205
+Oolong,Formosa,Lishan,60,60,60,60,75,75,75,75,75,75,190,205,5,6,3,Taiwan,Lishan,,Medium,Medium,,205
+Oolong,Formosa,Baochong,60,60,60,60,75,75,75,75,75,75,190,205,5,6,3,Taiwan,Lishan,,Medium,Medium,,205
+Oolong,Tieguanyin,Light roast,60,60,60,60,75,75,75,75,75,75,190,205,5,6,3,China,Anxi,,Medium,Medium,,205
+Green,Chinese,Pre-rain dragonwell,45,45,60,60,,,,,,,180,190,3,4,2,China,,,Very high ,Low,,170
+"Green, Japanese Sencha",Japanese,yakichi,30,30,45,60,60,60,60,60,60,60,140,150,2,3,2,Japan,,,Very high ,Low,,150
+"Green, Japanese Sencha",Japanese,Gyokuro,30,30,45,60,60,60,60,60,60,60,140,150,2,3,2,Japan,,,Very high ,Low,,150
+Herbal tea,Chrysanthemum Flowers,,90,90,90,90,120,120,120,120,120,120,205,212,3,4,1,China,,,Low,Low,,
+Jasmine,Green,,60,60,60,60,60,60,60,60,60,60,140,150,2,3,2,China,,,Low,Low,,180
+White tea,Silver needle,,40,40,40,60,60,60,60,60,60,60,150,160,3,4,1,China,,,Very high ,Low,,180
+White tea,Jasmine silver needle,,40,40,45,60,60,60,60,60,60,60,150,160,3,4,1,China,,,Very high ,Low,,180
+White tea,White Peony Shou Mei - Longevity brows,,40,40,45,60,60,60,60,60,60,60,150,160,3,4,1,China,,,Very high ,Low,,180
